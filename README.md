@@ -77,7 +77,7 @@
 
 
 This repository provides the official PyTorch implementation of the paper [**Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train**](https://arxiv.org/abs/2306.16741)
-by [Zhao Wang](https://kyfafyd.wang)\*, Chang Liu\*, [Shaoting Zhang](http://www.qingyuan.sjtu.edu.cn/a/Shaoting-Zhang.html)†, and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou)†.
+by [Zhao Wang](https://kyfafyd.wang)\*, [Chang Liu](https://scholar.google.com/citations?hl=en&user=q2JSP3kAAAAJ)\*, [Shaoting Zhang](http://www.qingyuan.sjtu.edu.cn/a/Shaoting-Zhang.html)†, and [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou)†.
 
 <div align="center">
     <a href="https://"><img width="800px" height="auto" src="assets/framework.png"></a>
@@ -259,13 +259,12 @@ Our code is based on [DINO](https://github.com/facebookresearch/dino), [TimeSfor
 
 If you find this code useful, please cite in your research papers.
 ```
-@inproceedings{
-    wang2023foundation,
-    title={Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train},
-    author={Zhao Wang and Chang Liu and Shaoting Zhang and Qi Dou},
-    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-    pages={},
-    year={2023},
-    organization={Springer}
+@inproceedings{wang2023foundation,
+  title={Foundation model for endoscopy video analysis via large-scale self-supervised pre-train},
+  author={Wang, Zhao and Liu, Chang and Zhang, Shaoting and Dou, Qi},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={101--111},
+  year={2023},
+  organization={Springer}
 }
 ```
